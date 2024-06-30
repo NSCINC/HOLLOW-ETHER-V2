@@ -2,7 +2,7 @@ Para atualizar o README com a nova versão do HoloFi Engine, aqui está uma vers
 
 ---
 
-## 🌐🔱 HOLLOW ETHER 🔱🌐
+## 🌎👨‍💻 HOLLOW ETHER 👨‍💻🌎
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![RubyX](https://img.shields.io/badge/rubyX-%23CC342D.svg?style=for-the-badge&logo=rubyX&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
